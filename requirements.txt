@@ -1,0 +1,6 @@
+pandas
+numpy as np
+matplotlib.pyplot
+seaborn
+sklearn
+os

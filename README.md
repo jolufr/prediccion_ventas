@@ -17,7 +17,7 @@
   - seaborn
 
 - **Modelado Predictivo**
-  - scikit-learn (LinearRegression, RandomForest, GridSearchCV)
+  - scikit-learn (LinearRegression, RandomForest, MLPRegressor)
 
 ## Cómo Ejecutar el Proyecto
 
